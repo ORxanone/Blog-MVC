@@ -1,0 +1,16 @@
+{
+  "name": "ecommerse-mvc",
+  "version": "1.0.0",
+  "description": "E-commerce MVC app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "ORkhan Racabov",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
